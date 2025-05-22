@@ -1,0 +1,19 @@
+id,company,skill,skills,id_resume,company_type,resume_source_id,skills_text
+1219,NULL,NULL,NULL,NULL,FPT,1,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1220,NULL,NULL,NULL,NULL,FPT,2,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1221,NULL,NULL,NULL,NULL,FPT,3,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1222,NULL,NULL,NULL,NULL,FPT,4,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1223,NULL,NULL,NULL,NULL,FPT,5,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1224,NULL,NULL,NULL,NULL,FPT,6,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1225,NULL,NULL,NULL,NULL,FPT,7,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1226,NULL,NULL,NULL,NULL,FPT,11,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1227,NULL,NULL,NULL,NULL,FPT,13,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes,Microservice"
+1228,NULL,NULL,NULL,NULL,NAB,14,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1229,NULL,NULL,NULL,NULL,NAB,15,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1230,NULL,NULL,NULL,NULL,NAB,16,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1231,NULL,NULL,NULL,NULL,NAB,17,"Java,Spring Framework,React,Microservices,RESTful APIs,Agile Methodologies,Git,Docker,Kubernetes"
+1232,NULL,NULL,NULL,NULL,NAB,27,
+1233,NULL,NULL,NULL,NULL,NAB,28,
+1234,NULL,NULL,NULL,NULL,VNG,30,
+1235,NULL,NULL,NULL,NULL,KPMG,53,
+1236,NULL,NULL,NULL,NULL,TMA,54,"abc,abc"

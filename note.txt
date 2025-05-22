@@ -1,0 +1,7 @@
+python3 app.py
+
+http://192.168.1.69:5000/predict
+body
+{
+  "skills_text" :"  Java"
+}
